@@ -1,1 +1,5 @@
-this is a test!
+1. Git status : Tình trạng các files
+2. Git add *	: Thêm tất cả các files mới vào repo.
+3. git commit -am "Dòng thông báo"
+4. git push origin	: Đẩy code/file lên server.
+5. git diff			: Xem sự thay đổi của file/code.
