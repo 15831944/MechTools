@@ -3,3 +3,4 @@
 3. git commit -am "Dòng thông báo"
 4. git push origin	: Đẩy code/file lên server.
 5. git diff			: Xem sự thay đổi của file/code.
+6. git clone "SSH"	: Clone repo về máy tính.
